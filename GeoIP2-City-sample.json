@@ -1,0 +1,143 @@
+[
+  {
+    "::23.16.0.0/116": {
+      "city": {
+        "geoname_id": 5931800,
+        "names": {
+          "en": "Cranbrook"
+        }
+      },
+      "continent": {
+        "code": "NA",
+        "geoname_id": 6255149,
+        "names": {
+          "en": "North America"
+        }
+      },
+      "country": {
+        "geoname_id": 6251999,
+        "iso_code": "CA",
+        "names": {
+          "en": "Canada"
+        }
+      },
+      "location": {
+        "accuracy_radius": 20,
+        "latitude": 49.4999,
+        "longitude": -115.7688,
+        "time_zone": "America/Edmonton"
+      }
+    },
+    "::131.178.0.0/116": {
+      "city": {
+        "geoname_id": 3995465,
+        "names": {
+          "en": "Monterrey"
+        }
+      },
+      "continent": {
+        "code": "NA",
+        "geoname_id": 6255149,
+        "names": {
+          "en": "North America"
+        }
+      },
+      "country": {
+        "geoname_id": 3996063,
+        "iso_code": "MX",
+        "names": {
+          "en": "Mexico"
+        }
+      },
+      "location": {
+        "accuracy_radius": 500,
+        "latitude": 25.6667,
+        "longitude": -100.3167,
+        "time_zone": "America/Monterrey"
+      }
+    },
+    "::193.110.128.199/116": {
+      "city": {
+        "geoname_id": 3117735,
+        "names": {
+          "en": "Madrid"
+        }
+      },
+      "continent": {
+        "code": "EU",
+        "geoname_id": 6255148,
+        "names": {
+          "en": "Europe"
+        }
+      },
+      "country": {
+        "geoname_id": 2510769,
+        "iso_code": "ES",
+        "names": {
+          "en": "Spain"
+        }
+      },
+      "location": {
+        "accuracy_radius": 50,
+        "latitude": 40.4165,
+        "longitude": -3.7026,
+        "time_zone": "Europe/Madrid"
+      }
+    },
+    "::204.120.204.0/116": {
+      "city": {
+        "geoname_id": 6697173,
+        "names": {
+          "en": "Antarctica"
+        }
+      },
+      "continent": {
+        "code": "AN",
+        "geoname_id": 6255152,
+        "names": {
+          "en": "Antarctica"
+        }
+      },
+      "country": {
+        "geoname_id": 6697173,
+        "iso_code": "AQ",
+        "names": {
+          "en": "Antarctica"
+        }
+      },
+      "location": {
+        "accuracy_radius": 1000,
+        "latitude": -90.0,
+        "longitude": 0.0
+      }
+    },
+    "::212.58.244.22/116": {
+      "city": {
+        "geoname_id": 2643743,
+        "names": {
+          "en": "London"
+        }
+      },
+      "continent": {
+        "code": "EU",
+        "geoname_id": 6255148,
+        "names": {
+          "en": "Europe"
+        }
+      },
+      "country": {
+        "geoname_id": 2635167,
+        "iso_code": "GB",
+        "names": {
+          "en": "United Kingdom"
+        }
+      },
+      "location": {
+        "accuracy_radius": 50,
+        "latitude": 51.5142,
+        "longitude": -0.0931,
+        "time_zone": "Europe/London"
+      }
+    }
+  }
+]
