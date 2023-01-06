@@ -1,5 +1,7 @@
 # Introduction
 
+_Archived as unmaintained/unused, but maybe it is useful to someone, somewhere._
+
 MaxMind DB is a binary file format that stores data indexed by IP address
 subnets (IPv4 or IPv6).
 
